@@ -1,0 +1,17 @@
+{
+  "author": "Etienne Dion <dionetienne@gmail.com>",
+  "name": "session2",
+  "description": "session2",
+  "version": "0.0.1",
+  "repository": {
+    "url": "git@github.com:EtienneDion/session2.git"
+  },
+  "dependencies": {
+    "express": "~2.5.10"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
